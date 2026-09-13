@@ -30,7 +30,7 @@
 
 ### 2.2 Ideation Boards
 
-![Mindmap](https://drive.google.com/file/d/1bY8-PT5ccENwLnVYtgYf8PlN44kWysqv/view?usp=sharing)
+[Mindmap](https://drive.google.com/file/d/1bY8-PT5ccENwLnVYtgYf8PlN44kWysqv/view?usp=sharing)
 *Our early mindmap mapping the core problem (fragmented trip planning) to candidate features, showing how Plan Rescue and the AI chatbot emerged as the strongest directions.*
 
 ### 2.3 Mentor Consultation
