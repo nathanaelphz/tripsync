@@ -1,9 +1,11 @@
 # TripSync by APUGOKGOK
 
-**Team:** Nathanael Phan Ern Shen, Lin Zhe Wei
-**Problem Statement:** Travel Planner
-**Video Presentation:** (https://youtu.be/GRBT2-oDuFQ)
-**Presentation Slides:** (https://docs.google.com/presentation/d/1TSr42sfEEWnvQ6T0hCGIP3MUyKHG1ewT/edit?usp=sharing&ouid=117628435611642126909&rtpof=true&sd=true)
+| | |
+|---|---|
+| **Team** | Nathanael Phan Ern Shen, Lin Zhe Wei |
+| **Problem Statement** | Travel Planner |
+| **Video Presentation** | [Watch on YouTube](https://youtu.be/GRBT2-oDuFQ) |
+| **Presentation Slides** | [View Slides](https://docs.google.com/presentation/d/1TSr42sfEEWnvQ6T0hCGIP3MUyKHG1ewT/edit?usp=sharing&ouid=117628435611642126909&rtpof=true&sd=true) |
 
 ---
 
@@ -28,7 +30,7 @@
 
 ### 2.2 Ideation Boards
 
-https://drive.google.com/file/d/1bY8-PT5ccENwLnVYtgYf8PlN44kWysqv/view?usp=drive_link
+![Mindmap](https://drive.google.com/file/d/1bY8-PT5ccENwLnVYtgYf8PlN44kWysqv/view?usp=sharing)
 *Our early mindmap mapping the core problem (fragmented trip planning) to candidate features, showing how Plan Rescue and the AI chatbot emerged as the strongest directions.*
 
 ### 2.3 Mentor Consultation
